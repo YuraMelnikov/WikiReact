@@ -1,0 +1,21 @@
+@import "_variables.scss";
+
+@import "/node_modules/bootstrap/scss/bootstrap.scss";
+@import "/node_modules/react-infinite-calendar/styles.css";
+
+@import "_base.scss";
+@import "_overrides.scss";
+@import "_extends.scss";
+@import "_animations.scss";
+@import "utils/_utils.scss";
+
+@import "components/_header.scss";
+@import "components/_sidebar.scss";
+@import "components/_content.scss";
+@import "components/_page.scss";
+@import "components/_widget.scss";
+@import "components/_search-input.scss";
+
+@import "themes/_colors.scss";
+
+@import "demos/_demos.scss";
